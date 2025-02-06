@@ -121,10 +121,6 @@ button {
     border-radius: 0 25px 25px 0;
 }
 
-.button-add:hover {
-    background-color: #a1a1a1;
-}
-
 /* Listas */
 ul {
     list-style-type: none;
